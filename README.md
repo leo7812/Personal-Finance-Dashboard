@@ -8,3 +8,8 @@ Features:
 - Linear Graph showing spending over days of the current month
 
   more to come...
+
+![image](https://github.com/user-attachments/assets/f8f25ccb-e2c8-464f-87a2-6c3040b2eeba)
+![image](https://github.com/user-attachments/assets/1a53f902-056a-4ef5-8133-340832792541)
+
+
